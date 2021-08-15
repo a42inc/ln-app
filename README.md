@@ -1,5 +1,5 @@
 # LN.app ⚡️
 
-LN.app for Lightning Network apps.
+LN.app - Lightning Network apps.
 
 contact: i@a42.io
