@@ -1,4 +1,4 @@
-# ln-app
+# ln.app
 
 LN.app for Lightning Network apps.
 
